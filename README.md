@@ -2,7 +2,6 @@
 This repository provides a comprehensive, step-by-step guide to system exploitation using the Metasploit Framework. The project emphasizes ethical hacking 
 
 practices, offering insights into penetration testing methods for educational purposes. All techniques demonstrated here are intended for use in controlled, 
-
 authorized environments only.
 
 🔍 Key Features
